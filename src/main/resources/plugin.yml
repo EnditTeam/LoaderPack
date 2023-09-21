@@ -1,6 +1,6 @@
-name: Packloader
+name: '${project.name}'
 version: '${project.version}'
 main: eu.octanne.packloader.Packloader
 api-version: 1.16
-authors: [Octanne]
-description: Plugin to load Ressourcepack
+authors: [Octanne,Jiogo18]
+description: '${project.description}'
